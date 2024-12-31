@@ -1,6 +1,6 @@
 # SparseArrayAnalyser
 This repository contains the code, instructions, and details for the developed GUI, providing everything needed for easy access and use.
-Here’s a well-structured `README.md` for your repository:
+Here’s a well-structured `README.md` for this repository:
 
 ---
 
@@ -33,17 +33,13 @@ This repository contains a MATLAB App Designer application for analyzing differe
    ```bash
    git clone https://github.com/ananyapandey-gui/SensorArrayApp.git
    ```
-2. Open `SensorArrayApp.m` in MATLAB.
+2. Open `SensorArrayApp.mlappinstall` in MATLAB.
 3. Click **Run** to launch the GUI.
 4. Select the input mode (IES Notation or Sensor Positions).
 5. Enter the respective data and press **Process** to analyze and visualize the results.
 
 ---
 
-## File Structure
-- `SensorArrayApp.m`: Main MATLAB App Designer code for the GUI.
-- *(Optional)* `screenshot.png`: Example visualization of the app (add if needed).
-- `README.md`: Documentation for the repository.
 
 ---
 
