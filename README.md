@@ -1,6 +1,6 @@
 # SparseArrayAnalyser
-This repository contains the code, instructions, and details for the developed GUI, providing everything needed for easy access and use.
-Here’s a well-structured `README.md` for this repository:
+This repository contains the instructions, and details for the developed GUI, providing everything needed for easy access and use.
+
 
 ---
 
